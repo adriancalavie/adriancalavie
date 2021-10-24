@@ -1,1 +1,1 @@
-###I study Computer Science in Brașov, Romania. I'm interested in AI, Algorithms and Data Structures.
+### I study Computer Science in Brașov, Romania. I'm interested in AI, Algorithms and Data Structures.
