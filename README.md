@@ -1,3 +1,3 @@
 ## Welcome👽
 
-Check out my [resume](https://adriancalavie.github.io).
+Check out my resume [here](https://adriancalavie.github.io).
