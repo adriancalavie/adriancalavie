@@ -9,5 +9,5 @@ Here are some of my stats:
 
 <div>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriancalavie&langs_count=8&layout=compact&theme=github_dark&count_private=true&hide_border=true" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=adriancalavie&count_private=true&show_icons=true&theme=github_dark&hide_border=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=adriancalavie&count_private=true&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&hide=prs" />
  </div>
